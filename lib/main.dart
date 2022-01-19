@@ -34,6 +34,7 @@ class _IskeleState extends State<Iskele> {
               Column(
                 children: [
                   Text("naber knk lreoreoalf a kgfasl asg l"),
+                  Text("data"),
                 ],
               )
             ],
